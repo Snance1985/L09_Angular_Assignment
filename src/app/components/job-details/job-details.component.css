@@ -1,0 +1,25 @@
+.job-details {
+    text-align: center;
+    background-color: #BFDBF7;
+
+}
+
+.job-title {
+    font-family: 'Roboto', sans-serif;
+    color: #DB222A;
+}
+
+.job-description {
+    font-family: 'Roboto', sans-serif;
+    color: #053C5E;
+}
+
+.job-duration {
+    font-family: 'Roboto', sans-serif;
+    color: #053C5E;
+}
+
+.employer {
+    font-family: 'Roboto', sans-serif;
+    color: #053C5E;
+}

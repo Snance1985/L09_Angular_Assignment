@@ -1,0 +1,24 @@
+.about {
+    text-align: center;
+    background-color: #BFDBF7;
+}
+
+.aboutMe {
+    font-family: 'Roboto', sans-serif;
+    color: #DB222A;
+}
+
+.statement {
+    font-family: 'Roboto', sans-serif;
+    color: #053C5E;
+}
+
+.tech {
+    font-family: 'Roboto', sans-serif;
+    color: #DB222A;
+}
+
+.techs {
+    font-family: 'Roboto', sans-serif;
+    color: #053C5E;
+}

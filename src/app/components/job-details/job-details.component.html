@@ -1,0 +1,12 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap" rel="stylesheet"> 
+<div class="job-details" *ngIf="job">
+    <h2 class="job-title">{{ job.title }}</h2>
+    <p class="job-description">{{ job.description }}</p>
+    <p class="job-duration">Duration: {{ job.duration }}</p>
+    <p class="employer">Employer: {{ job.employer }}</p>
+    <br>
+    <img src="assets/Sonic2.jpg" alt="Sonic">
+    <a routerLink="/jobs">Back to Jobs</a>
+  </div>
